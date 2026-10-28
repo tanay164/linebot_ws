@@ -1,0 +1,3 @@
+[console_scripts]
+cross_track_logger = linebot_follower.cross_track_logger:main
+line_follower = linebot_follower.line_follower:main

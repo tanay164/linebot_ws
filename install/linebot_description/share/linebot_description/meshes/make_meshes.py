@@ -1,0 +1,1 @@
+/home/gsstanay/linebot_ws/src/linebot_description/meshes/make_meshes.py

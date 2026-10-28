@@ -1,0 +1,38 @@
+[0.019s] Invoking command in '/home/gsstanay/linebot_ws/build/linebot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gsstanay/linebot_ws/install/linebot_follower:/opt/ros/jazzy /usr/bin/cmake --build /home/gsstanay/linebot_ws/build/linebot_description -- -j20 -l20
+[0.153s] Invoked command in '/home/gsstanay/linebot_ws/build/linebot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gsstanay/linebot_ws/install/linebot_follower:/opt/ros/jazzy /usr/bin/cmake --build /home/gsstanay/linebot_ws/build/linebot_description -- -j20 -l20
+[0.166s] Invoking command in '/home/gsstanay/linebot_ws/build/linebot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gsstanay/linebot_ws/install/linebot_follower:/opt/ros/jazzy /usr/bin/cmake --install /home/gsstanay/linebot_ws/build/linebot_description
+[0.174s] -- Install configuration: ""
+[0.179s] -- Execute custom install script
+[0.219s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/urdf/linebot.urdf.xacro
+[0.220s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/urdf/linebot_old.urdf.xacro.bak
+[0.221s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/worlds/generate_world.py
+[0.222s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/worlds/line_bot1.sdf
+[0.222s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/worlds/line_bot2.sdf
+[0.223s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/worlds/line_bot3.sdf
+[0.223s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/worlds/line_bot4.sdf
+[0.224s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/worlds/line_track.sdf
+[0.224s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/worlds/waypoints.csv
+[0.225s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/meshes/.gitkeep
+[0.226s] -- Symlinking: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/meshes/caster_wheel.stl
+[0.233s] -- Symlinking: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/meshes/flat_chasis.stl
+[0.246s] -- Symlinking: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/meshes/left_axle.stl
+[0.254s] -- Symlinking: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/meshes/left_wheel.stl
+[0.260s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/meshes/make_meshes.py
+[0.261s] -- Symlinking: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/meshes/right_axle.stl
+[0.267s] -- Symlinking: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/meshes/right_wheel.stl
+[0.274s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/ament_index/resource_index/package_run_dependencies/linebot_description
+[0.275s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/ament_index/resource_index/parent_prefix_path/linebot_description
+[0.277s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/environment/ament_prefix_path.sh
+[0.277s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/environment/ament_prefix_path.dsv
+[0.278s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/environment/path.sh
+[0.278s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/environment/path.dsv
+[0.279s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/local_setup.bash
+[0.279s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/local_setup.sh
+[0.280s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/local_setup.zsh
+[0.280s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/local_setup.dsv
+[0.280s] -- Symlinking: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/package.dsv
+[0.289s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/ament_index/resource_index/packages/linebot_description
+[0.289s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/cmake/linebot_descriptionConfig.cmake
+[0.290s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/cmake/linebot_descriptionConfig-version.cmake
+[0.290s] -- Up-to-date symlink: /home/gsstanay/linebot_ws/install/linebot_description/share/linebot_description/package.xml
+[0.292s] Invoked command in '/home/gsstanay/linebot_ws/build/linebot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gsstanay/linebot_ws/install/linebot_follower:/opt/ros/jazzy /usr/bin/cmake --install /home/gsstanay/linebot_ws/build/linebot_description

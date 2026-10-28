@@ -1,0 +1,1 @@
+/home/gsstanay/linebot_ws/build/linebot_bringup/ament_cmake_environment_hooks/local_setup.zsh
